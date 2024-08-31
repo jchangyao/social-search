@@ -12,8 +12,8 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHashHistory(),
-    base:'juyingxiaoxiang',
+    history: createWebHistory(),
+    base:'social search',
     routes
 })
 
