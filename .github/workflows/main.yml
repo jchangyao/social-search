@@ -17,6 +17,7 @@ permissions:
 
 # 允许一个并发的部署
 concurrency:
+
   group: 'pages'
   cancel-in-progress: true
 
