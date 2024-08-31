@@ -15,7 +15,5 @@ export default defineConfig({
       resolvers: [ElementPlusResolver()],
     }),
   ],
-  build: {
-    outDir: "docs"
-  }
+ 
 })
